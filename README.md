@@ -236,6 +236,8 @@ Below is a list of the topics covered in each notebook in this repository listed
 
 ### Chapter 9: The Future of Generative Modeling
 
+#### `FutureGenerativeModeling.ipynb`
+
 - Transformer models
 - Positional encoding
 - Multihead attention
