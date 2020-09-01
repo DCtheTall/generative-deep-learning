@@ -262,7 +262,6 @@ Below is a list of the topics covered in each notebook in this repository listed
 - [Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang, _MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment_](https://arxiv.org/abs/1709.06298)
 - [Ian Goodfellow, _Generative Adversarial Networks_](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 - [Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville, _Improved Training of Wasserstein GANs_](https://arxiv.org/abs/1704.00028)
-- [](https://arxiv.org/pdf/1703.10593.pdf)
 - [David Ha, Jürgen Schmidhuber, _World Models_](https://arxiv.org/abs/1803.10122)
 - [Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, _Deep Residual Learning for Image Recognition_](https://arxiv.org/pdf/1512.03385.pdf)
 - [Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros, _Image-to-Image Translation with Conditional Adversarial Networks_](https://arxiv.org/pdf/1611.07004.pdf)
