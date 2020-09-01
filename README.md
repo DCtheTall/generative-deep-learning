@@ -251,3 +251,26 @@ Below is a list of the topics covered in each notebook in this repository listed
 - Self-Attention GAN (SAGAN)
 - BigGAN
 - Adaptive instance normalization
+
+## Papers cited
+
+- [Martin Arjovsky, Soumith Chintala, and Léon Bottou, _Wasserstein GAN_](https://arxiv.org/pdf/1701.07875.pdf)
+- [Andrew Brock, Jeff Donahue, Karen Simonyan, _Large Scale GAN Training for High Fidelity Natural Image Synthesis_](https://arxiv.org/abs/1809.11096)
+- [R.H. Byrd, S.L. Hansen, J. Nocedal, Y.Singer, _A Stochastic Quasi-Newton Method for Large-Scale Optimization_](https://arxiv.org/abs/1401.7020)
+- [Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever, _Generating Long Sequences with Sparse Transformers_](https://arxiv.org/abs/1904.10509)
+- [Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, _BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding_](https://arxiv.org/abs/1810.04805)
+- [Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang, _MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment_](https://arxiv.org/abs/1709.06298)
+- [Ian Goodfellow, _Generative Adversarial Networks_](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
+- [Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville, _Improved Training of Wasserstein GANs_](https://arxiv.org/abs/1704.00028)
+- [](https://arxiv.org/pdf/1703.10593.pdf)
+- [David Ha, Jürgen Schmidhuber, _World Models_](https://arxiv.org/abs/1803.10122)
+- [Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, _Deep Residual Learning for Image Recognition_](https://arxiv.org/pdf/1512.03385.pdf)
+- [Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros, _Image-to-Image Translation with Conditional Adversarial Networks_](https://arxiv.org/pdf/1611.07004.pdf)
+- [Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen, _Progressive Growing of GANs for Improved Quality, Stability, and Variation_](https://arxiv.org/abs/1710.10196)
+- [Tero Karras, Samuli Laine, Timo Aila, _A Style-Based Generator Architecture for Generative Adversarial Networks_](https://arxiv.org/abs/1812.04948)
+- [Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, _Language Models are Unsupervised Multitask Learners_](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [Olaf Ronneberger, Philipp Fischer, and Thomas Brox, _U-Net: Convolutional Networks for Biomedical Image Segmentation_](https://arxiv.org/pdf/1505.04597.pdf)
+- [Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky, _Instance Normalization: The Missing Ingredient for Fast Stylization_](https://arxiv.org/pdf/1607.08022.pdf)
+- [Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, _Attention Is All You Need_](https://arxiv.org/abs/1706.03762)
+- [Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena, _Self-Attention Generative Adversarial Networks_](https://arxiv.org/abs/1805.08318)
+- [Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros, _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks_](https://arxiv.org/pdf/1703.10593.pdf)
